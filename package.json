@@ -1,0 +1,13 @@
+{
+  "name": "bot-fila-freefire",
+  "version": "1.0.0",
+  "description": "Bot de fila Free Fire com confirmação, ticket e ADM",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.15.3"
+  }
+}
